@@ -5,6 +5,8 @@ This project is a computer vision system designed to automate retail shelf monit
 
 Our solution uses object detection models to identify products and empty spaces on shelves, providing visual feedback through a web interface where users can upload images and receive immediate analysis of shelf health. This reduces the need for manual shelf audits and improves responsiveness to inventory issues.
 
+### Data: `SKU110K`  [src](https://www.kaggle.com/datasets/thedatasith/sku110k-annotations)
+
 
 **Team Number:** 9  
 **Project Number:** 5
