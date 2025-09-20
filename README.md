@@ -18,6 +18,6 @@ Our solution uses object detection models to identify products and empty spaces 
 *   **Ahmed Hamed Shehata** - [@ahmed-shehata](https://github.com/Ahmed-Hamed-Attallah/)
 *   **Anas Taha Yahya Zakarya** - [@anas-zakarya](https://github.com/Anasx2005) 
 *   **Youssef Yacoub** - [@youssef-yacoub](https://github.com/Youssef123ya) 
-*   **Youssef Nader Nasif** 
+*   **Youssef Nader Nasif** - [@youssef-Nader](https://github.com/youssefnader7)
 *   **Mahmoud Adel** - [@mahmoud-adel](https://github.com/AboMedoz)
 *   **Osama Eslam Bayomi** - [@Osama-Eslam](https://github.com/Osama2004o)
