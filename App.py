@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 
 # Load YOLOv8 model
-MODEL_PATH = "../models/yolo_sku110k_model/weights/best.pt"  
+MODEL_PATH = "models/yolo_sku110k_model/weights/best.pt"
 model = YOLO(MODEL_PATH)
 
 st.title("🛒 Shelf Monitoring System")
