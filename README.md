@@ -7,6 +7,8 @@ Our solution uses object detection models to identify products and empty spaces 
 
 ### Data: `SKU110K`  [src](https://www.kaggle.com/datasets/thedatasith/sku110k-annotations)
 
+### Stremlit App: [Retail-Shelf-Monitoring-App](https://gtc-retail-shelf-monitoring-app.streamlit.app)
+
 
 **Team Number:** 9  
 **Project Number:** 5
